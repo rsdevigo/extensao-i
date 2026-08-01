@@ -73,6 +73,12 @@ da Execução              + rascunho do relatório final    + relatório final
 | Impacto percebido | Há evidências de que algo mudou para o público atendido? |
 | Dificuldades | O que não saiu como esperado, e por quê? |
 
+<div class="curiosity">
+
+Exemplo do universo de Jogos Digitais: se o objetivo era "ensinar lógica de programação com um jogo educativo", o alcance não se mede por "o jogo funcionou", mas por evidências de que os participantes compreenderam o conceito — respostas em um formulário, observação durante o uso, ou feedback do professor parceiro.
+
+</div>
+
 ---
 
 ## Estrutura do relatório final (rascunho)

@@ -56,10 +56,16 @@ Entender o fluxo institucional não é burocracia pela burocracia: é o que dá 
 ```
  Registro  →  Edital (quando houver)  →  Execução
      ↓
- Relatório  →  Reconhecimento institucional / evento
+ Relatório  →  Reconhecimento institucional
 ```
 
 Fonte: Política de Extensão e Regulamento de Organização das Atividades de Extensão (SOURCES.md).
+
+<div class="curiosity">
+
+Aqui, "reconhecimento institucional" é o registro formal do projeto junto ao IFMS — não tem relação com a **modalidade** da ação (evento, oficina, serviço etc.), que a equipe ainda vai escolher livremente.
+
+</div>
 
 ---
 

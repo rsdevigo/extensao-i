@@ -159,6 +159,14 @@ O objetivo não é um material finalizado — é uma **primeira versão coerente
 
 ---
 
+<!-- _class: exercise -->
+
+## A partir daqui, mão na massa
+
+O conteúdo de referência acabou. O resto do encontro é produção da equipe.
+
+---
+
 ## Atividade da Semana
 
 - **Encontro 1:** elaborar a lista completa de materiais, classificar, priorizar e distribuir responsabilidades

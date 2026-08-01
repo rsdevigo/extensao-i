@@ -138,6 +138,14 @@ Item "não iniciado" há duas semanas ou dependência não resolvida entre mater
 
 ---
 
+<!-- _class: exercise -->
+
+## A partir daqui, mão na massa
+
+O conteúdo de referência acabou. O resto do encontro é produção e revisão da equipe.
+
+---
+
 ## Atividade da Semana
 
 - **Encontro 1:** revisar status, retomar materiais iniciados na Semana 8 e avançá-los

@@ -96,6 +96,20 @@ Pergunta-teste: "Que conceito visto em aula explica essa decisão ou esse result
 
 ---
 
+## Retrospectiva final: e depois?
+
+Na retrospectiva coletiva do Encontro 2, além de revisitar aprendizados e dificuldades, vale uma pergunta rápida:
+
+- Este projeto poderia continuar, virar um edital, um portfólio ou uma iniciativa própria?
+
+<div class="tip">
+
+Retomada breve da Semana 3 (fomentos e empreendedorismo) — não é uma nova mini aula, apenas uma provocação final.
+
+</div>
+
+---
+
 ## Exemplos (diferentes modalidades)
 
 | Modalidade | O que destacar na apresentação |

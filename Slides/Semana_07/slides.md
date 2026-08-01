@@ -130,6 +130,24 @@ Orçamento realista &gt; orçamento ambicioso. Ajuste o escopo ao que é viável
 
 ---
 
+<!-- _class: question -->
+
+## Um caso concreto
+
+Uma pessoa cadeirante quer participar da atividade da equipe. Ela chega ao espaço reservado.
+
+- A porta e o corredor até o local permitem a passagem de uma cadeira de rodas?
+- O material impresso ou projetado tem letra grande e contraste suficiente?
+- Se houver instruções faladas, existe alguma forma de acompanhar por escrito?
+
+<div class="warning">
+
+Se a resposta a qualquer uma dessas perguntas for "não sabemos", a acessibilidade ainda não está garantida — está apenas prevista no papel.
+
+</div>
+
+---
+
 ## Acessibilidade: três dimensões
 
 | Dimensão | Exemplo prático |
