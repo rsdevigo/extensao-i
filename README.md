@@ -56,12 +56,6 @@ A avaliação combina os documentos em **[Plano de ensino](Plano%20de%20ensino/)
 
 ---
 
-## Revisões
-
-Este repositório mantém um histórico de revisão pedagógica do material, documento a documento e semana a semana, em **[Revisão Crítica da Disciplina](Revisao_Critica_da_Disciplina.md)** e nos arquivos `Revisao_Semana_01.md` a `Revisao_Semana_17.md`. Eles registram achados, prioridades e correções já aplicadas — útil para entender decisões de design do material antes de alterá-lo.
-
----
-
 ## Se você está assumindo esta disciplina pela primeira vez
 
 O Manual do Professor foi escrito exatamente para esta situação: ele parte do princípio de que qualquer professor, lendo-o junto com os demais documentos, deve conseguir conduzir o semestre mantendo a mesma filosofia pedagógica, a mesma progressão Fundamentação → Planejamento → Preparação → Execução → Reflexão, e os mesmos critérios de avaliação — independentemente de quem esteja à frente da sala. Preste atenção especial à seção sobre por que a exposição teórica cede lugar ao trabalho de equipe a partir da etapa de Preparação, e sobre como conduzir os checkpoints como mentoria, não fiscalização.
