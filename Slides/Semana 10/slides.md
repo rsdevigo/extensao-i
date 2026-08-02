@@ -197,5 +197,5 @@ Perguntas para estimular discussão:
 
 Avaliação nesta semana: continuidade do ciclo de observação da Etapa de Preparação (Semanas 8–11), segundo a Rubrica de Avaliação. Observa-se Planejamento (coerência da estratégia com público-alvo e cronograma), Gestão do Projeto (integração da comunicação à lista de materiais) e Interação com a Comunidade (adequação de linguagem e canais ao público).
 
-Fonte: Plano Semanal Semana 10, Cronograma, CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md.
+Fonte: Plano Semanal Semana 10, Cronograma.
 -->

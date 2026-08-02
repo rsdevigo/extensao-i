@@ -180,7 +180,7 @@ Reconhecer falhas com honestidade é parte da qualidade esperada na Reflexão Cr
 
 Pontos de atenção:
 - Ter em mãos um roteiro/modelo de relatório final com as seções esperadas (contexto, planejamento, execução, resultados, reflexão), coerente com o critério Documentação da Rubrica.
-- Preparar perguntas orientadoras para a avaliação de resultados (alcance de objetivos, participação, qualidade da execução, impacto percebido, dificuldades), com base na Etapa 6 do EXTENSION_PROJECT_GUIDE.md.
+- Preparar perguntas orientadoras para a avaliação de resultados (alcance de objetivos, participação, qualidade da execução, impacto percebido, dificuldades).
 - Ter a Rubrica de Avaliação disponível para consulta, especialmente Execução, Documentação e Reflexão Crítica.
 - Ter acesso ao portfólio de evidências de cada equipe (Semana 15) e ao documento de objetivos/público-alvo (Semana 5).
 - Levar cópias individuais dos roteiros de autoavaliação e avaliação entre pares (Rubrica_de_Avaliacao.md), um conjunto por estudante.
@@ -200,5 +200,5 @@ Perguntas para estimular discussão:
 
 Avaliação nesta semana: observação central de Documentação (qualidade e completude do rascunho do relatório) e início de Reflexão Crítica (identificação de pontos fortes e fracos com exemplos concretos, mais a autoavaliação individual). Observam-se também Trabalho em Equipe (avaliação entre pares), Execução (grau de alcance dos objetivos) e Interação com a Comunidade (evidências de escuta e impacto percebido).
 
-Fonte: Plano Semanal Semana 16, Cronograma (Semana 16), CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md, Rubrica_de_Avaliacao.md, Plano Semanal Semana 15 (continuidade).
+Fonte: Plano Semanal Semana 16, Cronograma (Semana 16), Rubrica_de_Avaliacao.md, Plano Semanal Semana 15 (continuidade).
 -->

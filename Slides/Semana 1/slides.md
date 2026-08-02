@@ -179,5 +179,5 @@ Perguntas para estimular discussão coletiva:
 
 Avaliação nesta semana: apenas observação inicial e informal de Trabalho em Equipe e Gestão do Projeto, conforme Rubrica de Avaliação — sem atribuição de nota.
 
-Fonte: Plano Semanal Semana 1, Cronograma, CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md.
+Fonte: Plano Semanal Semana 1, Cronograma.
 -->

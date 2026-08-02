@@ -190,5 +190,5 @@ Perguntas para estimular discussão:
 
 Avaliação nesta semana: continuidade da observação central de Execução e Documentação, segundo a Rubrica de Avaliação. Observam-se também Gestão do Projeto (comunicação proativa e ajuste do plano diante de pendências) e Interação com a Comunidade (qualidade dos registros complementares coletados).
 
-Fonte: Plano Semanal Semana 13, Cronograma, CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md.
+Fonte: Plano Semanal Semana 13, Cronograma.
 -->

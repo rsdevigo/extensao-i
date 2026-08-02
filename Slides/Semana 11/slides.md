@@ -213,5 +213,5 @@ Perguntas para estimular discussão:
 
 Avaliação nesta semana: encerramento do ciclo de observação da Etapa de Preparação (Semanas 8–11), segundo a Rubrica de Avaliação. Observa-se Planejamento (coerência entre o planejado na Etapa 2 e o que está pronto), Gestão do Projeto (identificação de riscos remanescentes e comunicação objetiva no checkpoint), início de Execução (qualidade do ensaio geral e disponibilidade dos materiais) e Trabalho em Equipe (distribuição de responsabilidades no ensaio e na consolidação do checklist).
 
-Fonte: Plano Semanal Semana 11, Cronograma, CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md.
+Fonte: Plano Semanal Semana 11, Cronograma.
 -->

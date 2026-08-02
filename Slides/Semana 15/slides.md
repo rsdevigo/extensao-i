@@ -201,5 +201,5 @@ Perguntas para estimular discussão:
 
 Avaliação nesta semana: observação central de Documentação (completude e organização dos registros de todas as etapas) e continuidade de Execução (grau de conclusão e tratamento de lacunas). Observam-se também Gestão do Projeto (fechamento formal da etapa) e o início de Reflexão Crítica (qualidade da leitura preliminar).
 
-Fonte: Plano Semanal Semana 15, Cronograma (Semana 15), CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md, Plano Semanal Semana 14 (continuidade).
+Fonte: Plano Semanal Semana 15, Cronograma (Semana 15), Plano Semanal Semana 14 (continuidade).
 -->

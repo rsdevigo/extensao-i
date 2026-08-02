@@ -224,5 +224,5 @@ Perguntas para estimular discussão:
 
 Avaliação nesta semana: continuidade do ciclo de observação da Etapa de Preparação (Semanas 8–11), segundo a Rubrica de Avaliação. Observa-se Gestão do Projeto (lista atualizada, progresso relatado objetivamente), Trabalho em Equipe (distribuição equilibrada com o aumento do volume de produção) e Documentação (registro contínuo das versões e do roteiro de revisão cruzada preenchido).
 
-Fonte: Plano Semanal Semana 9, Cronograma, CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md.
+Fonte: Plano Semanal Semana 9, Cronograma.
 -->

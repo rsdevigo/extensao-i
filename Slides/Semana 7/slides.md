@@ -284,5 +284,5 @@ Perguntas para estimular discussão:
 
 Avaliação nesta semana: encerramento do ciclo de observação do critério Planejamento (15% do peso total), segundo a Rubrica de Avaliação — objetivos claros, público-alvo definido, cronograma realista, responsabilidades nominais, riscos, acessibilidade e segurança explícitos. Observa-se também Gestão do Projeto (consolidação objetiva dos checkpoints anteriores) e Trabalho em Equipe (participação de todos na consolidação do plano).
 
-Fonte: Plano Semanal Semana 7, Cronograma, CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md.
+Fonte: Plano Semanal Semana 7, Cronograma.
 -->

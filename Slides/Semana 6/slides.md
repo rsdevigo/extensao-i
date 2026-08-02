@@ -230,7 +230,7 @@ Dificuldades comuns e como conduzir:
 - Cronograma da equipe incompatível com as datas da disciplina → confrontar diretamente os dois cronogramas com a equipe e orientar ajuste de escopo ou prazos internos, nunca das datas da disciplina.
 - Responsabilidades atribuídas de forma genérica ("a equipe decide depois") → exigir que cada linha do cronograma tenha um nome associado antes de considerar a tarefa concluída.
 - Concentração de tarefas em um ou dois integrantes → questionar a distribuição publicamente no checkpoint e sugerir redistribuir com base nas funções apresentadas na mini aula.
-- Cronograma excessivamente detalhado ou burocrático, consumindo todo o tempo do encontro → lembrar o princípio de simplicidade (EXTENSION_PROJECT_GUIDE.md): apenas etapas, prazos e responsáveis.
+- Cronograma excessivamente detalhado ou burocrático, consumindo todo o tempo do encontro → lembrar o princípio de simplicidade: apenas etapas, prazos e responsáveis.
 - Equipe ainda insegura sobre o escopo do projeto → revisitar rapidamente os objetivos da Semana 5 antes de avançar para o cronograma.
 
 Perguntas para estimular discussão:
@@ -240,5 +240,5 @@ Perguntas para estimular discussão:
 
 Avaliação nesta semana: acompanhamento inicial (sem nota), segundo a Rubrica de Avaliação, de Planejamento — cobertura das etapas com prazos realistas e responsabilidades nominais —, Gestão do Projeto — capacidade de relatar progresso objetivamente no checkpoint — e Trabalho em Equipe — equilíbrio observável na distribuição de tarefas. Alimenta a avaliação de Planejamento prevista para a entrega do Plano Completo (Semana 7).
 
-Fonte: Plano Semanal Semana 6, Cronograma, CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md.
+Fonte: Plano Semanal Semana 6, Cronograma.
 -->

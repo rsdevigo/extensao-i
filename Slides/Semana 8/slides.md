@@ -243,5 +243,5 @@ Perguntas para estimular discussão:
 
 Avaliação nesta semana: início do ciclo de observação da Etapa de Preparação (Semanas 8–11), segundo a Rubrica de Avaliação. Observa-se Gestão do Projeto (transformação do planejamento em lista organizada de produção, com responsáveis e prazos), Trabalho em Equipe (distribuição equilibrada das responsabilidades) e, indiretamente, Planejamento (suficiência do Plano Completo da Semana 7 para orientar a produção).
 
-Fonte: Plano Semanal Semana 8, Cronograma, CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md.
+Fonte: Plano Semanal Semana 8, Cronograma.
 -->

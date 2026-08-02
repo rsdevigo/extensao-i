@@ -195,5 +195,5 @@ Perguntas para estimular discussão (retrospectiva final):
 
 Avaliação nesta semana: consolidação final de Reflexão Crítica, Documentação e Trabalho em Equipe; retomada de Execução e Interação com a Comunidade na fala de cada equipe sobre resultados e impacto. Última semana de observação formal da Rubrica de Avaliação.
 
-Fonte: Plano Semanal Semana 17, Cronograma (Semana 17), CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md, Rubrica_de_Avaliacao.md, Plano Semanal Semana 16 (continuidade).
+Fonte: Plano Semanal Semana 17, Cronograma (Semana 17), Rubrica_de_Avaliacao.md, Plano Semanal Semana 16 (continuidade).
 -->

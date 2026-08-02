@@ -228,5 +228,5 @@ Perguntas para estimular discussão:
 
 Avaliação nesta semana: início da observação central de Execução, segundo a Rubrica de Avaliação. Observam-se também Interação com a Comunidade (comunicação com o público durante a execução), Documentação (início efetivo do registro de evidências), Gestão do Projeto (capacidade de reportar o andamento, inclusive fora do horário de aula) e Trabalho em Equipe (distribuição de papéis observada na execução).
 
-Fonte: Plano Semanal Semana 12, Cronograma, CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md.
+Fonte: Plano Semanal Semana 12, Cronograma.
 -->

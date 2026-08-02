@@ -92,12 +92,6 @@ Pensem em uma ação que já viram acontecer perto de vocês.
 - O IFMS tem **fluxo institucional próprio**: registro, editais, relatórios
 - Isso garante reconhecimento oficial, apoio e, quando cabível, certificação
 
-<div class="curiosity">
-
-Consulte SOURCES.md sempre que precisar de dados institucionais atualizados sobre o marco legal.
-
-</div>
-
 ---
 
 ## Exemplos por modalidade
@@ -188,5 +182,5 @@ Perguntas para estimular discussão:
 
 Avaliação nesta semana: observação inicial e informal de Planejamento (viabilidade das ideias) e Trabalho em Equipe (participação de todos), conforme Rubrica de Avaliação — sem atribuição de nota.
 
-Fonte: Plano Semanal Semana 2, Cronograma, CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md.
+Fonte: Plano Semanal Semana 2, Cronograma.
 -->

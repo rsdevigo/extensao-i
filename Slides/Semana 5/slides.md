@@ -217,5 +217,5 @@ Perguntas para estimular discussão:
 
 Avaliação nesta semana: acompanhamento inicial (sem nota) de Planejamento — clareza, especificidade e viabilidade dos objetivos, qualidade da justificativa, delimitação do público-alvo — e Gestão do Projeto — capacidade de relatar progresso e próximos passos no checkpoint, conforme Rubrica de Avaliação. Alimenta a avaliação de Planejamento prevista para a entrega do Plano Completo (Semana 7).
 
-Fonte: Plano Semanal Semana 5, Cronograma, CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md.
+Fonte: Plano Semanal Semana 5, Cronograma.
 -->

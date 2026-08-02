@@ -182,5 +182,5 @@ Perguntas para estimular discussão:
 
 Avaliação nesta semana: observação central de Execução e Reflexão Crítica, segundo a Rubrica de Avaliação. Observam-se também Gestão do Projeto (comunicação sobre imprevistos e ajustes) e Trabalho em Equipe (participação de todos na resolução dos problemas e na preparação do relato).
 
-Fonte: Plano Semanal Semana 14, Cronograma, CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md, Plano Semanal Semana 13 (continuidade).
+Fonte: Plano Semanal Semana 14, Cronograma, Plano Semanal Semana 13 (continuidade).
 -->

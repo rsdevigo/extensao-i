@@ -29,7 +29,7 @@ footer: 'IFMS · Tecnologia em Jogos Digitais'
 Ao final da semana, vocês devem conseguir:
 
 - descrever o fluxo institucional de extensão no IFMS (registro, editais, relatórios, eventos);
-- saber onde consultar as fontes oficiais (Política de Extensão e Regulamento, em SOURCES.md);
+- saber onde consultar as fontes oficiais (Política de Extensão e Regulamento);
 - explicar como a extensão contribui para a formação e se relaciona a fomentos e empreendedorismo;
 - levantar, em equipe, possíveis públicos-alvo para o projeto do semestre.
 
@@ -59,7 +59,7 @@ Entender o fluxo institucional não é burocracia pela burocracia: é o que dá 
  Relatório  →  Reconhecimento institucional
 ```
 
-Fonte: Política de Extensão e Regulamento de Organização das Atividades de Extensão (SOURCES.md).
+Fonte: Política de Extensão e Regulamento de Organização das Atividades de Extensão.
 
 <div class="curiosity">
 
@@ -73,7 +73,6 @@ Aqui, "reconhecimento institucional" é o registro formal do projeto junto ao IF
 
 - **Política de Extensão do IFMS** — princípios e diretrizes institucionais
 - **Regulamento de Organização das Atividades de Extensão** — fluxo, registro, prazos
-- Endereços e referências completas: **SOURCES.md**
 
 <div class="curiosity">
 
@@ -187,5 +186,5 @@ Perguntas para estimular discussão:
 
 Avaliação nesta semana: observação inicial e informal de Planejamento (coerência tema/público) e Trabalho em Equipe (participação na exploração das fontes e no levantamento), conforme Rubrica de Avaliação — sem atribuição de nota.
 
-Fonte: Plano Semanal Semana 3, Cronograma, CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md.
+Fonte: Plano Semanal Semana 3, Cronograma.
 -->

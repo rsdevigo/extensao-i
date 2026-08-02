@@ -72,7 +72,7 @@ Ideias de tema  →  Públicos-alvo    →   Estudos de caso
 
 <div class="curiosity">
 
-Esses critérios vêm do EXTENSION_PROJECT_GUIDE.md e vão reaparecer em toda avaliação do semestre.
+Esses critérios vão reaparecer em toda avaliação do semestre.
 
 </div>
 
@@ -195,5 +195,5 @@ Perguntas para estimular discussão:
 
 Avaliação nesta semana: início do acompanhamento (sem nota) de Planejamento — clareza e coerência da proposta inicial — e Trabalho em Equipe — participação de todos na decisão e na redação, conforme Rubrica de Avaliação. Esta é a primeira entrega formal do projeto, base do acompanhamento longitudinal iniciado na Semana 3.
 
-Fonte: Plano Semanal Semana 4, Cronograma, CLAUDE.md, COURSE_CONTEXT.md, PEDAGOGICAL_RULES.md, EXTENSION_PROJECT_GUIDE.md.
+Fonte: Plano Semanal Semana 4, Cronograma.
 -->
